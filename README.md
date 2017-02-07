@@ -25,4 +25,4 @@ web resultante.
 
 ##RESUELTO
 
-[try me](http://scantero.guihub.io/X-Nav-Bootstrap-Carousel/)
+[try me](https://scantero.github.io/X-Nav-Bootstrap-Carousel/)
